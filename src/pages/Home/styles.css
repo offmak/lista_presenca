@@ -16,6 +16,8 @@
   width: 60px;
   height: 60px;
   border-radius: 30px;
+  box-sha
+  color: red;
   margin-left: 7px;
 }
 
@@ -56,4 +58,23 @@
 
 .container button:hover {
   filter: brightness(0.9);
+}
+
+.twitter{
+  padding: 10px;
+  margin-top: 40px;
+  margin-left: -100px;
+  color: purple;
+}
+
+
+.bio {
+  padding:30px;
+  justify-content: space-between;
+  gap: 3rem;
+  list-style: none;
+}
+
+.bio{
+  color: purple;
 }
